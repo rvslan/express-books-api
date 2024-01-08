@@ -90,7 +90,7 @@ API for retrieving book lists and details.
 ```json
     [
 	    {"title":"I sette mariti di Evelyn Hugo","authors":["Taylor Jenkins Reid"],"previewLink":"http://books.google.it/books?id=yCA6EAAAQBAJ&printsec=frontcover&dq=combined-print-and-e-book-fiction&hl=&cd=1&source=gbs_api"},{"title":"L'incastro (im)perfetto","authors":["Colleen Hoover"],"previewLink":"http://books.google.it/books?id=laQcrgEACAAJ&dq=combined-print-and-e-book-fiction&hl=&cd=2&source=gbs_api"},{"title":"Il lungo cammino verso la verità","authors":["David Baldacci"],"previewLink":"http://books.google.it/books?id=m---DwAAQBAJ&printsec=frontcover&dq=combined-print-and-e-book-fiction&hl=&cd=3&source=gbs_api"}
-   ]
+    ]
   ```
 
 ## Running Tests
